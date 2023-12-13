@@ -1,5 +1,4 @@
 Hello World!
 12345
-Line from user1
-Good evening (from master)
+Line from user2
 
