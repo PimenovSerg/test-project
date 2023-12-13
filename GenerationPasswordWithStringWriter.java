@@ -1,8 +1,5 @@
 package StringWriter;
 
-
-
-
 /*
 Генератор паролей
 */
@@ -32,7 +29,6 @@ public class StringWriter {
 
         is.write(bytes);
         is.close();
-
 
         return is;
     }
