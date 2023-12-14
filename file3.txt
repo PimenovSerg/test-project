@@ -1,2 +1,0 @@
-Hello World!
-Bug fix commit user1
