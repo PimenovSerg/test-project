@@ -12,7 +12,6 @@ public class StringWriter {
         ByteArrayOutputStream password = getPassword(8);
         System.out.println(password);
     }
-
     public static ByteArrayOutputStream getPassword(int length) throws IOException {
         ByteArrayOutputStream is = new ByteArrayOutputStream();
         String password = "";
