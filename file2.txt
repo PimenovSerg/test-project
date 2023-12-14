@@ -2,3 +2,4 @@ Good Bye!
 Some other line
 Line from user 2
 User2 change file2
+User2 change file2 too
